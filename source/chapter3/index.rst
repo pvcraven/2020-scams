@@ -1,5 +1,5 @@
-Chapter 3
-=========
+The Nigerian Prince
+===================
 
 Put some text here.
 
