@@ -9,8 +9,8 @@ Put some info about your final project here
 
    chapter1/index
    chapter2/index
-   chapter3/index
-   chapter4/index
+   nigerian_prince/index
+   antivirus/index
    chapter5/index
    chapter6/index
    chapter7/index
