@@ -7,8 +7,8 @@ Put some info about your final project here
    :maxdepth: 2
    :caption: Contents:
 
-   chapter1/index
-   chapter2/index
+   clone sites/index
+   fake prizes/index
    chapter3/index
    chapter4/index
    chapter5/index
