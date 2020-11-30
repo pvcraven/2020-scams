@@ -1,18 +1,18 @@
-Welcome to Final Project's documentation!
-=========================================
+Common Internet Scams!
+======================
 
 Put some info about your final project here
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    chapter1/index
    chapter2/index
    nigerian_prince/index
    antivirus/index
-   chapter5/index
-   chapter6/index
+   survey_scams/index
+   phishing_scams/index
    chapter7/index
    chapter8/index
    chapter9/index
