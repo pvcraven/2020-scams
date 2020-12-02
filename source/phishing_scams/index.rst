@@ -29,27 +29,17 @@ Sometimes scammers outsmart your spam filters in your email, and phishing attemp
 
 **The number one rule of online safety (and in life) is that if something is too good to be true, it probably is.**
 
-For more information on phishing, `click here <https://drexel.edu/it/help/viruses/scams/>`_ 
++--------------------------------------------------+---------------------------------------------+
+| Do                                               | Do Not                                      |         
++==================================================+=============================================+
+| be careful of what information you share online  | click on anything in an unsolicited email   | 
++--------------------------------------------------+---------------------------------------------+
+| report suspect email                             | send sensitive information via email or text|
++--------------------------------------------------+---------------------------------------------+
 
-=====  =====  =======
-A      B      A and B
-=====  =====  =======
-False  False  False
-True   False  False
-False  True   False
-True   True   True
-=====  =====  =======
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | ...        | ...      |          |
-+------------------------+------------+----------+----------+
+For more information on phishing, `click here <https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/spoofing-and-phishing>`_ 
 
 .. rubric:: Footnotes
 
-.. [#f2] Gajjar, Mit. “Phishing Scams: 8 Helpful Tips to Keep You Safe.” 
+.. [#f2] Gajjar, Mit. “Phishing Scams: 8 Helpful Tips to Keep You Safe.” About SSL Certificates, CheapSSLSecurity, 16 Sept. 2019, cheapsslsecurity.com/blog/phishing-scams-8-helpful-tips-to-keep-you-safe/. 
 
