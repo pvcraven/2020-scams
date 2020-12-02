@@ -11,12 +11,14 @@ Scammers will try to steal your passwords, Social Security numbers, and account 
 
 .. figure:: identify-phishing-scam.jpg
 
+   Phishing scam example [#f1]_
+
 .. note::
 	The One thing that these scammers cannot use while masquerading as a legit business is the official email of the company. If you want to make sure an email is a phishing attempt, check the email ID of the sender. You will also recognize a phishing scam if you find simple grammatical errors in the email.
 
 *How Can I Protect Myself?*
 
-Around 85% of organizations fall victim to phishing attacks, and almost 30% of phishing emails are opened by users. [#f2]_ Here is how you can protect yourself:
+Around 85% of organizations fall victim to phishing attacks, and almost 30% of phishing emails are opened by users. [#f1]_ Here is how you can protect yourself:
 
 	#. Download a security software to protect your computer.
 	#. Make sure you set the software on your phone to update automatically.
@@ -41,5 +43,5 @@ For more information on phishing, `click here <https://www.fbi.gov/scams-and-saf
 
 .. rubric:: Footnotes
 
-.. [#f2] Gajjar, Mit. “Phishing Scams: 8 Helpful Tips to Keep You Safe.” About SSL Certificates, CheapSSLSecurity, 16 Sept. 2019, cheapsslsecurity.com/blog/phishing-scams-8-helpful-tips-to-keep-you-safe/. 
+.. [#f1] Gajjar, Mit. "Phishing Scams: 8 Helpful Tips to Keep You Safe." About SSL Certificates, CheapSSLSecurity, 16 Sept. 2019, cheapsslsecurity.com/blog/phishing-scams-8-helpful-tips-to-keep-you-safe/. 
 
