@@ -6,8 +6,8 @@ Phishing Scams
 Scammers will try to steal your passwords, Social Security numbers, and account numbers via email and text messages. Phishing emails will look like they are from a trusted source, such as a bank or a credit card comapny. These emails or texts will contain false information in an attempt to get you to click on a link. For example, it may claim that:
 	
 	* There is a problem with your account information
-	* A suspicious log-in attempt
-	* Claim that you are eligible for a refund
+	* There was a suspicious log-in attempt
+	* You are eligible for a refund
 
 .. figure:: identify-phishing-scam.jpg
 
@@ -32,9 +32,9 @@ Sometimes scammers outsmart your spam filters in your email, and phishing attemp
 +--------------------------------------------------+---------------------------------------------+
 | Do                                               | Do Not                                      |         
 +==================================================+=============================================+
-| be careful of what information you share online  | click on anything in an unsolicited email   | 
+| Be careful of what information you share online  | Click on anything in an unsolicited email   | 
 +--------------------------------------------------+---------------------------------------------+
-| report suspect email                             | send sensitive information via email or text|
+| Report suspect email                             | Send sensitive information via email or text|
 +--------------------------------------------------+---------------------------------------------+
 
 For more information on phishing, `click here <https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/spoofing-and-phishing>`_ 
