@@ -1,7 +1,7 @@
 Common Internet Scams!
 ======================
 
-Put some info about your final project here
+Internet users beware.
 
 .. toctree::
    :maxdepth: 1
