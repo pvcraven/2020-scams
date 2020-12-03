@@ -19,6 +19,8 @@ and in personal emails.
    chapter2/index
    nigerian_prince/index
    antivirus/index
+   advanced_fee/index
+   charity_scam/index
    chapter5/index
    chapter6/index
    chapter7/index
