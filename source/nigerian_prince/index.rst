@@ -34,6 +34,10 @@ family members, friends, or co-workers. Often times these scam artists will
 develop fake email accounts sharing similar addresses to your work, 
 subscriptions, or even claiming to be an insurance company.
 
+Despite the silliness of the situation or how absurd receiving this email may
+be, many people around the world still fall for this scam. As seen in the
+statistics below:
+
 **2020 Nigerian Scam Statistics** [#f1]_
 
 +------------+---------------+
@@ -46,7 +50,7 @@ subscriptions, or even claiming to be an insurance company.
 Tips
 ----
 Luckily today, most email services do a great job filtering out emails and 
-sorting them into your spam folder. In situations where their algorithm may 
+sorting them into your spam folder. In situations where the algorithm may 
 fail, here are some tips to remain safe:
 
 * Email is from an unknown source
