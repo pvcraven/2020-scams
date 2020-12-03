@@ -1,18 +1,21 @@
 Welcome to Final Project's documentation!
 =========================================
 
-Put some info about your final project here
+this final project is a document about common scams
+in 2020. these scames are online scams that are 
+common today on the internet. These scams have hurt
+many people and they continue to run online sites 
+and in personal emails.
 
-.. toctree::
-   :maxdepth: 2
+.. doctree::
+   :maxdepth: 9
    :caption: Contents:
 
 <<<<<<< HEAD
-   clone sites/index
-   fake prizes/index
+   clone_sites/index.rst 
+   fake_prizes/index.rst
    chapter3/index
    chapter4/index
-=======
    chapter1/index
    chapter2/index
    nigerian_prince/index
