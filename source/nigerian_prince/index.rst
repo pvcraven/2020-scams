@@ -20,6 +20,10 @@ develop a fake persona, such as a Nigerian Prince, therefore now being dubbed
 the *Nigerian Prince scam* or a sob story. Initially, these scams had originated 
 from Nigeria, but over time, they have become abundant worldwide. [#f1]_
 
+.. figure:: example.jpg
+
+    Nigerian Prince scam example. [#f2]_
+
 .. note::
     Why would a Nigerian King come to you for help? How did they find you?
     Ask these questions before acting.
@@ -52,3 +56,5 @@ fail, here are some tips to remain safe:
 Footer
 ------
 .. [#f1] "`Nigerian Scams <https://www.scamwatch.gov.au/types-of-scams/unexpected-money/nigerian-scams>`_". Scam Watch, Australian Competition and Consumer Commission, 4 Jan. 2018.
+
+.. [#f2] `Hamill, Jasper <https://www.thesun.co.uk/news/1539019/cops-arrest-nigerian-prince-behind-45million-worth-of-alleged-scams/>`_. “Cops Arrest 'Nigerian Prince' Alleged to Have Carried out £45million Email Scam Campaign.” The Sun, 2 Aug. 2016.
