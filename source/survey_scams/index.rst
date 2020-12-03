@@ -1,6 +1,9 @@
 Survey Scams
 ============
 
+What They Are
+=============
+
 Survey scams are one of the most common Internet scams you will come accross. They can come in email form or a pop-up, and are usually tailored to you based on your search history. For example, if you have been researching Apple products online, a survey scam may appear asking for your opinion on a product. 
 
 .. figure:: survey-scam.jpg
@@ -11,6 +14,9 @@ The scammer's goal is to collect your answers from the survey and sell your data
 
 .. warning::
     Sometimes, survey scams will ask you for payment information. This is a huge red flag!
+
+Tips
+====
 
 *What are other signs to look for?*
 
