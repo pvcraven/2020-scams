@@ -2,7 +2,7 @@ Phishing Scams
 ==============
 
 What They Are
-=============
+-------------
 
 *What Does a Phishing Attempt Look Like?*
 
@@ -20,7 +20,7 @@ Scammers will try to steal your passwords, Social Security numbers, and account 
 	The One thing that these scammers cannot use while masquerading as a legit business is the official email of the company. If you want to make sure an email is a phishing attempt, check the email ID of the sender. You will also recognize a phishing scam if you find simple grammatical errors in the email.
 
 Tips
-====
+----
 
 *How Can I Protect Myself?*
 
