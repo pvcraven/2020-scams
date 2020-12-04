@@ -1,4 +1,4 @@
-FAkE PRIZES
+Fake Prizes
 ===========
 
 in the era of massive heights of inovation and
@@ -15,6 +15,12 @@ the email is usually a clone cite of an actual
 legitimate company that is made to conviece you
 of it's legitimacy.
 
+***common red flags***
+
+* The add is urgent
+* Fragment senteses
+* Miss spellings
+
 there are many diferent methods that these scams
 get a hold of someones information. some informa
 tion is fished if the reciever visited a sketchy
@@ -26,7 +32,8 @@ to claim some trust.
 
 the emails are also created by a generator that 
 guesses random names and email combinations
-twenty-four seven and sent to random people with such emails around the world.
+twenty-four seven and sent to random people with
+such emails around the world.[#f3]_
 
 The Information
 ---------------
@@ -44,6 +51,15 @@ gift cards, and even expensive jewlry or products
 of the sorts. They keep the emails fairy short 
 urging you to read it as people genarally do not
 like reading long emails.
+
+
+***2020 Fake Prizes scams stats*** [#f5]_
+
++--------------------+---------------+
+|Amount Lost         |Accused scamers|
++====================+===============+
+|More than 1 billion |400            |
++--------------------+---------------+
 
 Red Flags
 ---------
@@ -65,16 +81,18 @@ first place, but if you happen to click it and you
 need to pay some fee to obtain your gift there is
 a high chance that you are being scamed.
 with online businesses it is easy to give up 
-banking information expecially if the prize is large which it usually is.
+banking information expecially if the prize is
+large which it usually is.
 by giving out that information they will obtain 
 the information and steal money out of it, or they may get you adcted to spending by promming higher
-and higher prizes for extra fees.
+and higher prizes for extra fees. [#f2]_
 
 Avoiding The Scams
 ------------------
 
 avoiding the fake scams is to be vigilant of what 
-sites you are visiting. with internet in our pockets it is more than easy to be on the internet 
+sites you are visiting. with internet in our
+pockets it is more than easy to be on the internet 
 and with the power for anyone to create a website 
 it is easy for any scamer to create fishing sites
 and scam people all over the world.
@@ -84,6 +102,17 @@ attantion to emails, text messages and adds. It is
 also important to do a bit of background check on
 what companies or sites you are visiting and
 making sure before you provide any information, 
-you have done some homework.
+you have done some homework. [#f1]_
+
+.. figure:: scam.png
+
+    Lottery and Free Gift Card Scam Example. [#f4]_
 
 
+footer
+------
+.. [#f1] "`Fake Prizes <https://www.scamwatch.gov.au/types-of-scams/unexpected-winnings/unexpected-prize-lottery-scams"
+.. [#f2] "`Sandra, Grauschopf / 12 warning Signs od Sweepstakes Scams <https://www.thebalanceeveryday.com/warning-signs-of-sweepstakes-scams-886996"
+.. [#f3] "`Prize Scams <https://www.consumer.ftc.gov/articles/0199-prize-scams"
+.. [#f4] "`Scam example <https://www.pandasecurity.com/en/mediacenter/panda-security/social-media-scams/"
+.. [#f5] "`Stats <https://whnt.com/news/new-data-shows-80-of-money-lost-in-sweepstakes-lottery-and-prize-schemes-is-from-consumers-over-65/"
