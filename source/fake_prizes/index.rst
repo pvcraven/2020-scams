@@ -1,19 +1,14 @@
 Fake Prizes
 ===========
 
-in the era of massive heights of inovation and
-technogy, scamers have found a way to scam many
-people by sending automatic emails with fake
-prizes to convice people they have won so me
-sort of prize only to scam them if they fall
-for it which is very easy to do.
+In the era of massive heights of innovation and technology, scammers have found a way to scam many people by sending automatic emails with fake prizes to convince people they have won some reward only to scam them if they fall for it, which is very easy to do.
 
 The Email
 ---------
 
-the email is usually a clone cite of an actual 
-legitimate company that is made to conviece you
-of it's legitimacy.
+The email is usually a clone site of 
+a legitimate company that is made to convince you
+of its legitimacy.
 
 ***common red flags***
 
@@ -21,39 +16,25 @@ of it's legitimacy.
 * Fragment senteses
 * Miss spellings
 
-there are many diferent methods that these scams
-get a hold of someones information. some informa
-tion is fished if the reciever visited a sketchy
-site and used their email adress.
-in this was the scamers have you email to use as
-a target for the fake prizes and sometimes they 
-use the users last visit on the sketchy website 
-to claim some trust.
+There are many different methods that these scams
+get a hold of someone's information. Some information is fished if the receiver visited a sketchy site and used their email address.
+in this was the scammers have your email to use as
+a target for the fake prizes, and sometimes they use the user's last visit on the sketchy website to claim some trust.
 
 the emails are also created by a generator that 
 guesses random names and email combinations
 twenty-four seven and sent to random people with
-such emails around the world.[#f3]_
+such emails around the world. [#f3]_
 
 The Information
 ---------------
 
-within the email there a multiple key things 
-that make these scams work. They sometimes have
-their email wich was created to soung like the
-company they are possing as. if it is walmart,
-they email may a link to a walmart like page,
-their phone number, a fake email, and more.
+Within the email, multiple things make these scams work. They sometimes have their email, which was created to seem like the company they are posing as. If it is Walmart, their email may link to a page similar to the official Walmart page, phone number, a fake email, and more.
 
-the email also contains information about what the 
-prize is which is usually a huge sum of money, 
-gift cards, and even expensive jewlry or products
-of the sorts. They keep the emails fairy short 
-urging you to read it as people genarally do not
-like reading long emails.
+The email also contains information about the prize, usually a massive sum of money, gift cards, and even expensive jewelry or products of the sorts. They keep the emails fairy short, urging you to read them as people generally do not like reading long emails.
 
 .. note:: Do not ignore anything that seems 
-          suspecious, do an investiagation before clicking a link or provinding information on a website
+          suspicious, do an investigation before clicking a link or providing information on a website
 
 ***2020 Fake Prizes scams stats*** [#f5]_
 
@@ -66,45 +47,18 @@ like reading long emails.
 Red Flags
 ---------
 
-with fake prizes the red flags can look very legit 
-and lack of attantion to detal can cost a lot of
-money to only recieve nothing in return. the email
-usually doe not have legitimate domain names and 
-can be as simple as 
-(amazon.servic@gmail.com) this is a red flag 
-because companies like amazon usually have the 
-service after the (@) sign and they do not use 
-gmail for their emails.
+with fake prizes, the red flags can look very legit 
+and lack of attention to detail can cost a lot of money only to receive nothing in return. The email usually does not have legitimate domain names and can be as simple as (amazon.service@gmail.com); this is a red flag because companies like amazon typically have the service after the (@) sign, and they do not use Gmail for their emails. More information on the topic is `here <https://www.consumer.ftc.gov/articles/0199-prize-scams>`_.
 
-things to look out for also include is how you are
-told you are going to earn your prize. the best 
-situation is to avoid clicking the link in the
-first place, but if you happen to click it and you
-need to pay some fee to obtain your gift there is
-a high chance that you are being scamed.
-with online businesses it is easy to give up 
-banking information expecially if the prize is
-large which it usually is.
-by giving out that information they will obtain 
-the information and steal money out of it, or they may get you adcted to spending by promming higher
-and higher prizes for extra fees. [#f2]_
+Things to look out for also include how you are told you are going to get your prize. The best situation is to avoid clicking the link in the first place, but if you happen to click it and you need to pay some fee to obtain your gift, there is a high chance that you are being scammed. It is easy to give up banking information with online businesses, especially if the prize is large, which it usually is. By giving out that information, they will obtain the information and steal money out of it, or they may get you addicted to spending by promising higher and higher prizes for extra fees. [#f2]_
 
 Avoiding The Scams
 ------------------
 
-avoiding the fake scams is to be vigilant of what 
-sites you are visiting. with internet in our
-pockets it is more than easy to be on the internet 
-and with the power for anyone to create a website 
-it is easy for any scamer to create fishing sites
-and scam people all over the world.
+Avoiding fake prize scams requires vigilance of what sites you are visiting. with the internet in our pockets, it is more than easy to be on the internet 
+With the power for anyone to create a website, it is easy for any scammer to make fishing sites and scam people worldwide.
 
-the other way to avoid these scams in to pay 
-attantion to emails, text messages and adds. It is
-also important to do a bit of background check on
-what companies or sites you are visiting and
-making sure before you provide any information, 
-you have done some homework. [#f1]_
+The other way to avoid these scams is to pay attention to emails, text messages, and ads. It is also essential to do a bit of background check on what companies or sites you are visiting and ensuring that you have done some homework before providing any information. [#f1]_
 
 .. figure:: scam.png
 
