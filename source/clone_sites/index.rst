@@ -1,55 +1,52 @@
 Clone Sites
 ===========
 
-it was a dark and stormy night. sudenly a shot
-rang out!
-
-The shot
+Overview
 --------
 
-It turns out, this is the new vaccine! yeah!
+Clone sites at first glace look tike the real site 
+but they are not. the scamers make a clone site that 
+looks like the real sites. the most common wasys the
+scam is conducted is by making fake websites that 
+look reputable, such as clone banks, government tax
+websites, pension firms, passport sites, fake 
+driving tests, travel companies and fake retailers 
+pretending to be reputable online retailers like
+ebey and amazon.  
 
-The Letdown
------------
+How it works
+------------
 
-It is only for medical workers now
+the clone stes have a problem getting people to click
+on their sites because they are a coppy however they
+get people to click by sendig an email claiming that 
+there is unknown activity on the victims bank acount
+and then they provide a link for the victim to check
+to make sure everything is okay. the like then takes
+the victim to the cloned cite. when the victim logs
+in, the acamers will have their bamking information 
+which they can use to steal money.
 
-* Important item 1
-* Important item 2
-* Here is a lot of text. I keep writing. And 
-  writing. Like my lectures they keep going and
-  going.
-
-  This is some other stuff
-  another bullt
-
-* Big Item.
-
-1. Item 1
-2. Item 2
-
-hi
-
-#. Item
-#. Item
-
-This is a paragraph about `simpson college <https://simpson.edu>`_.
-
-Hours of opreration
+precautions to take
 -------------------
 
-+-----------------------------------
-  Monday is the the best day / 8-9  /
-+-----------------------------------
-  Tuesday                    / 8-9  /
-+-----------------------------------
+theare some ways and actions to take to minimize or
+limit the risk of reaching a cloned site. make sure 
+to never use an email lik to visit your banks site,
+if searching for a government site there are thinkg
+you can look for.
 
-.. image:: cat.jpg
-   :wigth: 50%
-   :height: 1200px
+***Signs of a ligitimate site**
+* Begin with https (https://www.gov.uk)
+* When clicking through the site you should see a 
+  padlock on the adress bar.
 
-.. code-block:: python
+this applie to retailers as well and if you do not
+see these things on their site ans another good thing
+to do would be to just limit purchases with 
+businesses that you do not know well.
+***Information on this site was found on `saga <https://www.saga.co.uk/magazine>`_.
 
-   print("hello")
+
 
 
