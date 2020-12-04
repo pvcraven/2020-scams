@@ -15,6 +15,11 @@ just keep the money instead. Often times these scams can arise
 right after natural disasters or high-profile heart-breaking news
 when people are in the giving mood.
 
+.. note::
+   With the Covid-19 Pandemic underway, watch out for charity scams tricking you with the disguise of donating to health care workers!
+
+
+
 You can be targeted by Charity Fraud scams through multiple different
 venues or technology. On the internet, these scams can target you
 through your email by sending out mass emails or creating an email
@@ -25,7 +30,7 @@ your cell phone by sending you robo calls.
 Real-Life Example
 -------
 In 2019, a South Carolina charity was caught by the FBI for a
-charity scam. The charity "Marines and Mickey" was created
+charity scam. The charity "*Marines and Mickey*" was created
 to send military families to Disney World, at least that's
 what people thought. A former marine, John Shannon Simpson
 actually created the charity to make himself rich. Being a
@@ -45,8 +50,8 @@ written by the `FBI`_.
 
 How To Protect Yourself
 -----------------------
-Here are some general tips to follow to make sure your money
-doesn't end up in the hands of criminals:
+**Here are some general tips to follow to make sure your money
+doesn't end up in the hands of criminals:**
 
 * Give to Charities that are established and who you trust.
 * Watch out for Charities with copycat names.
