@@ -16,7 +16,7 @@ The clone sites have a problem getting people to click on their sites because th
 precautions to take
 -------------------
 
-There are some ways and actions to minimize or limit the risk of reaching a cloned site. Make sure never to use an email link to visit your banks' site; if searching for a government site, there are things you can look for. The other important way to make sure you avoid such scams is to make sure all the links of websites you use are bookmarked and use them only, even when a link is provided in the email.
+There are some ways and actions to minimize or limit the risk of reaching a cloned site. Make sure never to use an *email* link to visit your banks' site; if searching for a government site, there are things you can look for. The other important way to make sure you **avoid** such scams is to make sure all the links of websites you use are bookmarked and use them only, even when a link is provided in the email.
 **Signs of a legitimate site**
 
 * Begin with https (https://www.gov.uk)
@@ -30,7 +30,7 @@ businesses that you do not know well.
 
 The goal
 --------
-The people behind these clone sites have many goals for creating these sites, although if the site is a bank, then their purpose is obvious. Clone sites are used for data harvesting, stealing credit card information, banking, and login credentials to outright theft. The clone cites can also profit from administrative or booking fees while still completing the victim's order. By completing the order but simultaneously scamming, the victim works in covering their tracks, but other scammer's steal without worrying about concealing their doings. Another goal is to fish for unlimited access to the victim's devices (phone, tablets, or computers), which they can track activities and seel the information or access save passwords. [#f4]_
+The people behind these clone sites have many goals for creating these sites, although if the site is a bank, then their purpose is obvious. *Clone sites* are used for data harvesting, stealing credit card information, banking, and login credentials to outright theft. The clone cites can also profit from **administrative or booking fees** while still completing the victim's order. By completing the order but simultaneously scamming, the victim works in covering their tracks, but other scammer's steal without worrying about concealing their doings. Another goal is to fish for unlimited access to the victim's devices (phone, tablets, or computers), which they can track activities and seel the information or access save *passwords*. [#f4]_
 
 ***2020 clone sites statitics (Britain)*** [#f5]_
 

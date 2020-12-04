@@ -29,7 +29,7 @@ such emails around the world. [#f3]_
 The Information
 ---------------
 
-Within the email, multiple things make these scams work. They sometimes have their email, which was created to seem like the company they are posing as. If it is Walmart, their email may link to a page similar to the official Walmart page, phone number, a fake email, and more.
+Within the email, multiple things make these scams work. They sometimes have their email, which was created to seem like the company they are posing as. If it is Walmart, their email may link to a page similar to the official **Walmart** page, phone number, a fake email, and more.
 
 The email also contains information about the prize, usually a massive sum of money, gift cards, and even expensive jewelry or products of the sorts. They keep the emails fairy short, urging you to read them as people generally do not like reading long emails.
 
@@ -50,7 +50,7 @@ Red Flags
 with fake prizes, the red flags can look very legit 
 and lack of attention to detail can cost a lot of money only to receive nothing in return. The email usually does not have legitimate domain names and can be as simple as (amazon.service@gmail.com); this is a red flag because companies like amazon typically have the service after the (@) sign, and they do not use Gmail for their emails. More information on the topic is `here <https://www.consumer.ftc.gov/articles/0199-prize-scams>`_.
 
-Things to look out for also include how you are told you are going to get your prize. The best situation is to avoid clicking the link in the first place, but if you happen to click it and you need to pay some fee to obtain your gift, there is a high chance that you are being scammed. It is easy to give up banking information with online businesses, especially if the prize is large, which it usually is. By giving out that information, they will obtain the information and steal money out of it, or they may get you addicted to spending by promising higher and higher prizes for extra fees. [#f2]_
+Things to look out for also include how you are told you are going to get your prize. The best situation is to avoid clicking the link in the first place, but if you happen to click it and you need to pay some fee to obtain your gift, there is a high chance that you are being scammed. It is easy to give up banking information with online businesses, especially if the *prize* is large, which it usually is. By giving out that information, they will obtain the information and steal money out of it, or they may get you addicted to spending by promising higher and higher prizes for extra fees. [#f2]_
 
 Avoiding The Scams
 ------------------
@@ -58,7 +58,7 @@ Avoiding The Scams
 Avoiding fake prize scams requires vigilance of what sites you are visiting. with the internet in our pockets, it is more than easy to be on the internet 
 With the power for anyone to create a website, it is easy for any scammer to make fishing sites and scam people worldwide.
 
-The other way to avoid these scams is to pay attention to emails, text messages, and ads. It is also essential to do a bit of background check on what companies or sites you are visiting and ensuring that you have done some homework before providing any information. [#f1]_
+The other way to avoid these scams is to pay attention to emails, text messages, and **ads**. It is also essential to do a bit of background check on what companies or sites you are visiting and ensuring that you have done some homework before providing any information. [#f1]_
 
 .. figure:: scam.png
 
