@@ -13,16 +13,17 @@ and in personal emails.
 
    clone_sites/index
    fake_prizes/index
-   chapter3/index
-   chapter4/index
-   chapter1/index
-   chapter2/index
-   nigerian_prince/index
    antivirus/index
+<<<<<<< HEAD
+   nigerian_prince/index
+   phishing_scams/index
+   survey_scams/index
+=======
    advanced_fee/index
    charity_scam/index
    chapter5/index
    chapter6/index
+>>>>>>> d3d35687ed3177f1c8ccb4a17d311f78819e5d75
    chapter7/index
    chapter8/index
    chapter9/index
