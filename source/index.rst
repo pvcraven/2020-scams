@@ -19,11 +19,9 @@ and in personal emails.
    survey_scams/index
    advanced_fee/index
    charity_scam/index
-<<<<<<< HEAD
-=======
-   chapter5/index
-   chapter6/index
->>>>>>> f9531fa3344dfaf5999fe30d26e41f6505b5a874
    chapter9/index
+   
+
+
 
 

@@ -61,4 +61,4 @@ Footer
 ------
 .. [#f1] "`Nigerian Scams <https://www.scamwatch.gov.au/types-of-scams/unexpected-money/nigerian-scams>`_". Scam Watch, Australian Competition and Consumer Commission, 4 Jan. 2018.
 
-.. [#f2] `Hamill, Jasper /12 Warning Signs of Sweepstakes scams <https://www.thesun.co.uk/news/1539019/cops-arrest-nigerian-prince-behind-45million-worth-of-alleged-scams/>`_. “Cops Arrest 'Nigerian Prince' Alleged to Have Carried out £45million Email Scam Campaign.” The Sun, 2 Aug. 2016.
+.. [#f2] `Hamill, Jasper <https://www.thesun.co.uk/news/1539019/cops-arrest-nigerian-prince-behind-45million-worth-of-alleged-scams/>`_. “Cops Arrest 'Nigerian Prince' Alleged to Have Carried out £45million Email Scam Campaign.” The Sun, 2 Aug. 2016.

@@ -52,6 +52,8 @@ of the sorts. They keep the emails fairy short
 urging you to read it as people genarally do not
 like reading long emails.
 
+.. note:: Do not ignore anything that seems 
+          suspecious, do an investiagation before clicking a link or provinding information on a website
 
 ***2020 Fake Prizes scams stats*** [#f5]_
 
